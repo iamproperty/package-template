@@ -1,0 +1,23 @@
+{
+    "name": "iamproperty/package",
+    "description": "A basic PHP directory project structure",
+    "type": "template",
+    "license": "proprietary",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IAMProperty\\Package\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\Package\\": "tests"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
