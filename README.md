@@ -1,4 +1,4 @@
-# Package Template ![](https://github.com/jmsfwk/package-template/workflows/Testing/badge.svg)
+# Package Template ![](https://github.com/jmsfwk/package-template/workflows/Tests/badge.svg)
 
 A template for PHP packages.
 
